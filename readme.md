@@ -1,3 +1,3 @@
 # intro
 
-intro to programing using python.
+intro to programing using python!
